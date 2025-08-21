@@ -4,7 +4,7 @@ I'm Mr. Shakeb Farhat, an experienced Embedded Software Engineer with over 20 ye
 
 🚀🚀 About Me:
 
-🔭 I have worked on a diverse range of embedded systems, including Pool Cleaner Robots, Medical and Esthetic Systems, Semiconductor Systems (Advanced Dicing Technologies), and other Real-Time Systems.
+🔭 I have worked on a diverse range of embedded systems, including Pool Cleaner Robots, Medical and Aesthetic Systems, Semiconductor Systems (Advanced Dicing Technologies), and other Real-Time Systems.
 
 🌱 I’m always exploring new advancements in Embedded Systems, IoT, and Real-Time Operating Systems (RTOS).
 
@@ -27,11 +27,11 @@ I'm Mr. Shakeb Farhat, an experienced Embedded Software Engineer with over 20 ye
 
 🛠 Microcontrollers & Processors: ARM Cortex-M, PIC, AVR, ESP32
 
-🛠 Development Tools: Keil, IAR, GCC, CMake
+🛠 Development Tools: VS, IAR, GCC, Atmel, STMCubeIDE, Eclipse
 
 🛠 Communication Protocols: UART, SPI, I2C, CAN, Ethernet
 
-🛠 Hardware Design & Debugging: Oscilloscopes, Logic Analyzers, JTAG/SWD
+🛠 Hardware Design & Debugging: Oscilloscopes, Logic Analyzers, JTAG/SWD, STLink
 
 🛠 Industries: Robotics, Medical Devices, Semiconductors, IoT
 
